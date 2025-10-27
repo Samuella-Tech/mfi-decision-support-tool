@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly.express
+warnings
+os
+
+
+
